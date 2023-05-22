@@ -16,7 +16,7 @@
     <version>0.0.1</version>
 
     <properties>
-        <start-class>com.baeldung.webrtc.WebRTCDemoApplication</start-class>
+        <start-class>run.mycode.webrtc.WebRTCDemoApplication</start-class>
     </properties>
 
     <dependencies>
